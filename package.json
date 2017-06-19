@@ -26,6 +26,7 @@
     "service",
     "proto3"
   ],
+  "main":"lib/ts_index.js",
   "author": "Improbable",
   "license": "Apache-2.0",
   "dependencies": {
